@@ -13,8 +13,8 @@ https://dashboard.ngrok.com/login
 
 Download Peter.beta here : 
 https://drive.google.com/drive/folders/1ZifxhWLlynpp9JDeRcZqny0yf4d_BYeJ?usp=sharing
-Disocrd:
 
-(https://discord.gg/WDyvarp9)
+
+https://discord.gg/WDyvarp9
 
 **MINECRAFT SERVER SUPPORT FOR THIS HOSTING WILL COME AROUND BETA 1.4**
